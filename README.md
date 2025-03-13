@@ -88,24 +88,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilesSG&theme=vue" width="800px" />
 </div>
 
-<!-- 最近活动 -->
+<!-- 最近活动 - 自动更新 -->
 <h2 align="center">📝 最近活动 | Recent Activity</h2>
 
-<div align="center">
-  
 <!--START_SECTION:activity-->
-1. 🎉 创建仓库 [MilesSG/SilkRoadTourismTags](https://github.com/MilesSG/SilkRoadTourismTags)
-2. 💪 提交16次代码到7个仓库
-3. 🎯 新建3个仓库
-4. 👨‍💻 参与 [MilesSG/anime-recommender-miniapp](https://github.com/MilesSG/anime-recommender-miniapp)
 <!--END_SECTION:activity-->
-
-</div>
 
 <!-- 访客计数器 -->
 <div align="center">
   <h2>👋 访客数 | Visitors</h2>
   <img src="https://profile-counter.glitch.me/MilesSG/count.svg" />
+</div>
+
+<!-- 详细GitHub统计 - 由GitHub Action自动生成 -->
+<div align="center">
+  <h2>📈 详细统计 | Detailed Stats</h2>
+  <img src="https://github.com/MilesSG/MilesSG/blob/main/github-metrics.svg" alt="Metrics" width="75%" />
 </div>
 
 <!-- 页脚 -->
