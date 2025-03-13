@@ -101,11 +101,11 @@
   <img src="https://profile-counter.glitch.me/MilesSG/count.svg" />
 </div>
 
-<!-- 详细GitHub统计 -->
-<h2 align="center">📈 详细统计 | Detailed Stats</h2>
-<p align="center">
-  <img src="https://metrics.lecoq.io/MilesSG" alt="Metrics" width="75%" />
-</p>
+<!-- 详细统计 | Detailed Stats -->
+<div align="center">
+  <h2>📈 详细统计 | Detailed Stats</h2>
+  <img src="https://metrics.lecoq.io/MilesSG" alt="GitHub Metrics" width="75%" />
+</div>
 
 <!-- 页脚 -->
 <div align="center">
