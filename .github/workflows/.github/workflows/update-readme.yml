@@ -1,4 +1,4 @@
-# 文件路径: .github/workflows/.github/update-readme.yml
+# 文件路径: .github/workflows/update-readme.yml
 name: Update README
 
 on:
