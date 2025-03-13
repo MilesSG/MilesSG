@@ -39,15 +39,6 @@
 4. 👨‍💻 Contributed to [anime-recommender-miniapp](https://github.com/MilesSG/anime-recommender-miniapp)
 <!--END_SECTION:activity-->
 
-## 🏆 My Projects
-
-<a href="https://github.com/MilesSG/anime-recommender-miniapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilesSG&repo=anime-recommender-miniapp&theme=radical" />
-</a>
-<a href="https://github.com/MilesSG/XSS_CSRF_Attack_Prevention">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilesSG&repo=XSS_CSRF_Attack_Prevention&theme=radical" />
-</a>
-
 ## 📫 Connect with me
 
 [![Twitter](https://img.shields.io/badge/-@NzMilesSG-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/NzMilesSG)
