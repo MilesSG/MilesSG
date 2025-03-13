@@ -101,7 +101,6 @@
   <img src="https://profile-counter.glitch.me/MilesSG/count.svg" />
 </div>
 
-<!-- 详细GitHub统计 - 由GitHub Action自动生成 -->
 <!-- 详细GitHub统计 -->
 <div align="center">
   <h2>📈 详细统计 | Detailed Stats</h2>
