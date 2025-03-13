@@ -106,6 +106,10 @@
   <h2>📈 详细统计 | Detailed Stats</h2>
   <img src="https://github.com/MilesSG/MilesSG/blob/main/github-metrics.svg" alt="Metrics" width="75%" />
 </div>
+<div align="center">
+  <h2>📈 详细统计 | Detailed Stats</h2>
+  <img src="https://metrics.lecoq.io/MilesSG" alt="Metrics" width="75%" />
+</div>
 
 <!-- 页脚 -->
 <div align="center">
