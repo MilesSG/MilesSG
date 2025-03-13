@@ -1,50 +1,114 @@
-# Hi there, I'm Miles 👋
+<!-- 动态打字效果标题 -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Miles;Full+Stack+Developer;AI+%26+Recommendation+Systems;学习技术的路上，真的不能停" alt="Typing SVG" />
+  </a>
+</h1>
 
-[![Blog](https://img.shields.io/badge/Blog-blog.milessg.com-blue?style=flat-square&logo=wordpress)](https://blog.milessg.com)
-[![Photography](https://img.shields.io/badge/Photography-photos.milessg.com-9cf?style=flat-square&logo=instagram)](https://photos.milessg.com)
-[![Email](https://img.shields.io/badge/Email-i@milessg.com-red?style=flat-square&logo=gmail)](mailto:i@milessg.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MilesSG-lightgrey?style=flat-square&logo=github)](https://github.com/MilesSG)
+<!-- 个人简介卡片 -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Recommendation%20Systems-brightgreen" />
+  <img src="https://img.shields.io/badge/Living-New%20Zealand-blue" />
+  <img src="https://img.shields.io/badge/Languages-中文%20%26%20English-red" />
+</div>
 
-## 👨‍💻 About Me
+<!-- 个人介绍 -->
+<div align="center">
+  <h3>📌 关于我 | About Me</h3>
+  <p>
+    作为一名全栈开发者，我专注于构建智能推荐系统和数据分析解决方案。<br>
+    Full-stack developer passionate about building intelligent recommendation systems and data analytics solutions.
+  </p>
 
-- 🧑‍💻 Full Stack Developer
-- 🌏 Based in New Zealand
-- 🎓 学习技术的路上，真的不能停
-- 🔭 Currently working on AI-powered recommendation systems
-- 🌱 Learning more about Cloud Architecture and DevOps
+  <!-- 社交媒体链接 -->
+  <div>
+    <a href="https://blog.milessg.com">
+      <img src="https://img.shields.io/badge/Blog-blog.milessg.com-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
+    </a>
+    <a href="https://photos.milessg.com">
+      <img src="https://img.shields.io/badge/Photography-photos.milessg.com-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Photography" />
+    </a>
+    <a href="mailto:i@milessg.com">
+      <img src="https://img.shields.io/badge/Email-i@milessg.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/MilesSG">
+      <img src="https://img.shields.io/badge/GitHub-MilesSG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
+</div>
 
-## 🛠️ Languages and Tools
+<!-- 技能展示 -->
+<h2 align="center">🛠️ 技术栈 | Tech Stack</h2>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<!-- 技能进度条 -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,vue,ts,docker,git" alt="Languages and Tools" />
+  
+  <br><br>
+  
+  <a href="https://github.com/MilesSG">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesSG&theme=radical&layout=compact&hide_border=true&bg_color=0D1117" width="400px"/>
+  </a>
+</div>
 
-## 📊 GitHub Stats
+<!-- 项目卡片展示 -->
+<h2 align="center">🔥 精选项目 | Featured Projects</h2>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MilesSG&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<div align="center">
+  <a href="https://github.com/MilesSG/anime-recommender-miniapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilesSG&repo=anime-recommender-miniapp&theme=radical&hide_border=true&bg_color=0D1117" width="400px" />
+  </a>
+  <a href="https://github.com/MilesSG/XSS_SSRF_Attack_Prevention">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilesSG&repo=XSS_SSRF_Attack_Prevention&theme=radical&hide_border=true&bg_color=0D1117" width="400px" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/MilesSG/CancerDetectionSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilesSG&repo=CancerDetectionSystem&theme=radical&hide_border=true&bg_color=0D1117" width="400px" />
+  </a>
+  <a href="https://github.com/MilesSG/traffic_flow_prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilesSG&repo=traffic_flow_prediction&theme=radical&hide_border=true&bg_color=0D1117" width="400px" />
+  </a>
+</div>
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesSG&layout=compact&theme=radical" />
+<!-- GitHub统计数据 -->
+<h2 align="center">📊 GitHub统计 | Stats</h2>
 
-<br clear="all" />
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MilesSG&theme=radical&hide_border=true&background=0D1117" width="400px" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MilesSG&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="400px" />
+</div>
 
-## 🔥 Recent Activity
+<!-- 贡献图 -->
+<h2 align="center">📈 贡献图 | Contribution Graph</h2>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilesSG&theme=radical" width="800px" />
+</div>
+
+<!-- 最近活动 -->
+<h2 align="center">📝 最近活动 | Recent Activity</h2>
+
+<div align="center">
+  
 <!--START_SECTION:activity-->
-1. 🎉 Created repository [MilesSG/SilkRoadTourismTags](https://github.com/MilesSG/SilkRoadTourismTags)
-2. 💪 Pushed 16 commits to 7 repositories
-3. 🎯 Created 3 new repositories
-4. 👨‍💻 Contributed to [anime-recommender-miniapp](https://github.com/MilesSG/anime-recommender-miniapp)
+1. 🎉 创建仓库 [MilesSG/SilkRoadTourismTags](https://github.com/MilesSG/SilkRoadTourismTags)
+2. 💪 提交16次代码到7个仓库
+3. 🎯 新建3个仓库
+4. 👨‍💻 参与 [MilesSG/anime-recommender-miniapp](https://github.com/MilesSG/anime-recommender-miniapp)
 <!--END_SECTION:activity-->
 
-## 📫 Connect with me
+</div>
 
-[![Twitter](https://img.shields.io/badge/-@NzMilesSG-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/NzMilesSG)
-[![LinkedIn](https://img.shields.io/badge/-Miles-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/milessg)
-[![QQ](https://img.shields.io/badge/-1290672153-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=1290672153)
+<!-- 访客计数器 -->
+<div align="center">
+  <h2>👋 访客数 | Visitors</h2>
+  <img src="https://profile-counter.glitch.me/MilesSG/count.svg" />
+</div>
 
----
-
-⭐️ From [MilesSG](https://github.com/MilesSG)
+<!-- 页脚 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
