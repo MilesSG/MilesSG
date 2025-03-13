@@ -102,10 +102,7 @@
 </div>
 
 <!-- 详细GitHub统计 - 由GitHub Action自动生成 -->
-<div align="center">
-  <h2>📈 详细统计 | Detailed Stats</h2>
-  <img src="https://github.com/MilesSG/MilesSG/blob/main/github-metrics.svg" alt="Metrics" width="75%" />
-</div>
+<!-- 详细GitHub统计 -->
 <div align="center">
   <h2>📈 详细统计 | Detailed Stats</h2>
   <img src="https://metrics.lecoq.io/MilesSG" alt="Metrics" width="75%" />
