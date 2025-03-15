@@ -2,8 +2,8 @@
 name: Update README
 on:
   schedule:
-    - cron: '0 */12 * * *'  # 每12小时运行一次
-  workflow_dispatch:  # 允许手动触发
+    - cron: '*/30 * * * *'  # 每30分钟
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
