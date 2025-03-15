@@ -133,30 +133,11 @@
 
 <hr>
 
-<!-- 最近活动部分 - 解释说明版 -->
+<!-- 最近活动部分 -->
 <h2 align="center">📝 最近活动 | Recent Activity</h2>
 
-<!-- 注意: 下面的活动列表是静态的示例，需要手动更新 -->
 <div align="center">
-  <p><i>下面是示例活动（需要手动更新）</i></p>
-  
-  🗣️ **2024-03-01** &nbsp;&nbsp; 评论了 [MilesSG/XSS_SSRF_Attack_Prevention#1](https://github.com/MilesSG/XSS_SSRF_Attack_Prevention/issues/1)
-  
-  🔀 **2024-02-28** &nbsp;&nbsp; 创建了PR [MilesSG/anime-recommender-miniapp#5](https://github.com/MilesSG/anime-recommender-miniapp/pull/5)
-  
-  ⭐ **2024-02-25** &nbsp;&nbsp; 收藏了仓库 [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-  
-  🍴 **2024-02-20** &nbsp;&nbsp; Fork了仓库 [microsoft/recommendation-systems](https://github.com/microsoft/recommendation-systems) 到 [MilesSG/recommendation-systems](https://github.com/MilesSG/recommendation-systems)
-  
-  📦 **2024-02-15** &nbsp;&nbsp; 创建了仓库 [MilesSG/traffic_flow_prediction](https://github.com/MilesSG/traffic_flow_prediction)
-</div>
-
-<!-- 这部分可以通过GitHub Actions自动更新 -->
-<div align="center">
-  <p><i>下面是自动更新的活动（由GitHub Actions维护）</i></p>
-  
   <!--START_SECTION:activity-->
-  1. 🗣 Commented on [#1](https://github.com/MilesSG/XSS_SSRF_Attack_Prevention/issues/1#issuecomment-2709812934) in [MilesSG/XSS_SSRF_Attack_Prevention](https://github.com/MilesSG/XSS_SSRF_Attack_Prevention)
   <!--END_SECTION:activity-->
 </div>
 
