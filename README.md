@@ -72,14 +72,92 @@
   </a>
 </div>
 
-<!-- GitHub统计数据 -->
-<h2 align="center">📊 GitHub统计 | Stats</h2>
+<!-- GitHub统计部分 - 开始 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+  <b>📊 GitHub统计 | Stats</b>
+</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MilesSG&theme=buefy&hide_border=true" width="400px" />
+  <!-- 两列布局：左侧为数据统计，右侧为评分卡 -->
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <!-- 左列：统计数据 -->
+      <td align="center" width="50%">
+        <h3>Miles' GitHub Stats</h3>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="left" width="30px">
+              <img src="https://img.icons8.com/color/48/000000/star--v1.png" width="24"/>
+            </td>
+            <td align="left">Total Stars Earned:</td>
+            <td align="center"><b>20</b></td>
+          </tr>
+          <tr>
+            <td align="left">
+              <img src="https://img.icons8.com/color/48/000000/commit.png" width="24"/>
+            </td>
+            <td align="left">Total Commits:</td>
+            <td align="center"><b>146</b></td>
+          </tr>
+          <tr>
+            <td align="left">
+              <img src="https://img.icons8.com/color/48/000000/pull-request.png" width="24"/>
+            </td>
+            <td align="left">Total PRs:</td>
+            <td align="center"><b>0</b></td>
+          </tr>
+          <tr>
+            <td align="left">
+              <img src="https://img.icons8.com/color/48/000000/issue-opened.png" width="24"/>
+            </td>
+            <td align="left">Total Issues:</td>
+            <td align="center"><b>0</b></td>
+          </tr>
+          <tr>
+            <td align="left">
+              <img src="https://img.icons8.com/color/48/000000/git-merge.png" width="24"/>
+            </td>
+            <td align="left">Contributed to (last year):</td>
+            <td align="center"><b>0</b></td>
+          </tr>
+        </table>
+      </td>
+      
+      <!-- 右列：评分卡 -->
+      <td align="center" width="50%">
+        <!-- 自定义SVG实现评分显示 -->
+        <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <!-- 背景圆圈 -->
+          <circle cx="100" cy="100" r="80" fill="none" stroke="#eaeaea" stroke-width="12"/>
+          
+          <!-- 成绩指示圆弧 - 调整stroke-dasharray和绿色深浅来反映不同级别 -->
+          <circle cx="100" cy="100" r="80" fill="none" stroke="#4CAF50" stroke-width="12"
+                  stroke-dasharray="200 500" stroke-dashoffset="0" transform="rotate(-90 100 100)"/>
+          
+          <!-- 中心文字 -->
+          <text x="100" y="115" font-family="Arial" font-size="48" font-weight="bold" fill="#4CAF50" text-anchor="middle">C+</text>
+        </svg>
+      </td>
+    </tr>
+  </table>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MilesSG&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true" width="400px" />
+  <!-- 统计卡片 - 使用GitHub统计API -->
+  <div>
+    <a href="https://github.com/MilesSG">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilesSG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MilesSG&theme=tokyonight&hide_border=true&border_radius=10" />
+    </a>
+  </div>
+  
+  <!-- 语言使用统计 -->
+  <div>
+    <a href="https://github.com/MilesSG">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesSG&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" width="420" />
+    </a>
+  </div>
 </div>
+<!-- GitHub统计部分 - 结束 -->
 
 <!-- 贡献图 -->
 <h2 align="center">📈 贡献图 | Contribution Graph</h2>
