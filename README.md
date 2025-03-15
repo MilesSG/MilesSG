@@ -1,5 +1,3 @@
-
-
 <!-- 简化打字效果 - 使用更可靠的方式 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
