@@ -1,21 +1,24 @@
-<!-- 标题部分 - 使用更可靠的方式 -->
+<!-- 标题部分 - 使用直接文本和更可靠的图片服务 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=200&section=header&text=Miles%20SG&fontSize=60&fontColor=000&animation=fadeIn&desc=AI%20%26%20Recommendation%20Systems%20Developer&descSize=20&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=200&section=header&text=Miles%20SG&fontSize=60&fontColor=000&animation=fadeIn&desc=AI%20%26%20Recommendation%20Systems%20Developer&descSize=20&descAlignY=62" width="100%" alt="Header" />
 </div>
 
-<!-- 简化的打字效果 - 避免过多依赖外部服务 -->
+<!-- 简化打字效果 - 使用更可靠的方式 -->
 <h1 align="center">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Recommendation+Systems;学习技术的路上，真的不能停;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Recommendation+Systems;%E5%AD%A6%E4%B9%A0%E6%8A%80%E6%9C%AF%E7%9A%84%E8%B7%AF%E4%B8%8A%EF%BC%8C%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%83%BD%E5%81%9C;Machine+Learning+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
-<!-- 标签徽章 - 简单可靠 -->
+<!-- 标签徽章 - 简单可靠的方式 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠_Focus-AI_&_Recommendation_Systems-3498DB?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌏_Living-New_Zealand-2ECC71?style=flat-square" />
-  <img src="https://img.shields.io/badge/🗣️_Languages-中文_&_English-F39C12?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0_Focus-AI_%26_Recommendation_Systems-3498DB?style=flat-square" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8F_Living-New_Zealand-2ECC71?style=flat-square" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F_Languages-%E4%B8%AD%E6%96%87_%26_English-F39C12?style=flat-square" alt="Languages Badge" />
 </p>
+
+<!-- 作为备用，添加纯文本版本的标题 -->
+<h2 align="center">Full Stack Developer</h2>
 
 <!-- 简单分隔线 -->
 <hr>
