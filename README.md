@@ -1,7 +1,4 @@
-<!-- 标题部分 - 使用直接文本和更可靠的图片服务 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=200&section=header&text=Miles%20SG&fontSize=60&fontColor=000&animation=fadeIn&desc=AI%20%26%20Recommendation%20Systems%20Developer&descSize=20&descAlignY=62" width="100%" alt="Header" />
-</div>
+
 
 <!-- 简化打字效果 - 使用更可靠的方式 -->
 <h1 align="center">
