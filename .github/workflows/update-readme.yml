@@ -1,14 +1,14 @@
 # 文件路径: .github/workflows/update-readme.yml
 name: Update README
-
 on:
   schedule:
-    - cron: '0 */12 * * *'  # 正确格式：分 时 日 月 星期
+    - cron: '0 */12 * * *'  # 每12小时运行一次
   workflow_dispatch:  # 允许手动触发
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 添加写入权限
     name: Update Profile README
     steps:
       - uses: actions/checkout@v2
