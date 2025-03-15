@@ -3,21 +3,15 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # 正确的cron表达式格式
+    - cron: '0 */12 * * *'  # 每12小时运行一次
   workflow_dispatch:  # 允许手动触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    name: Update Profile README with recent activity
-
+    name: Update Profile README
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: '更新最近GitHub活动'
-          MAX_LINES: 5
