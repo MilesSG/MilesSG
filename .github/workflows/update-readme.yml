@@ -3,7 +3,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # 每12小时运行一次
+    - cron: '0 */12 * * *'  # 正确的cron表达式格式
   workflow_dispatch:  # 允许手动触发
 
 jobs:
