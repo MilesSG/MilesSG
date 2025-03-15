@@ -71,52 +71,7 @@
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">编程语言 | Languages</h3>
-        <p align="center">
-          <a href="https://www.javascript.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript" />
-          </a>
-          <a href="https://www.python.org/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Python" />
-          </a>
-          <a href="https://www.typescriptlang.org/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=ts" width="52" height="52" alt="TypeScript" />
-          </a>
-        </p>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">前端 | Frontend</h3>
-        <p align="center">
-          <a href="https://vuejs.org/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=vue" width="52" height="52" alt="Vue" />
-          </a>
-          <a href="https://reactjs.org/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React" />
-          </a>
-          <a href="https://tailwindcss.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="52" height="52" alt="Tailwind" />
-          </a>
-        </p>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">后端 & 工具 | Backend & Tools</h3>
-        <p align="center">
-          <a href="https://www.docker.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=docker" width="52" height="52" alt="Docker" />
-          </a>
-          <a href="https://git-scm.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git" />
-          </a>
-          <a href="https://nodejs.org/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="52" height="52" alt="Node.js" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=js,python,vue,ts,docker,git,react,tailwind,nodejs" alt="Skills" />
 </div>
 
 <!-- 编程语言统计 -->
@@ -156,92 +111,23 @@
 <!-- 视觉分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub统计部分 - 开始 -->
+<!-- GitHub统计部分 - 修改版（使用外部API而不是自定义SVG） -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
   <b>📊 GitHub统计 | Stats</b>
 </h2>
 
 <div align="center">
-  <!-- 两列布局：左侧为数据统计，右侧为评分卡 -->
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <!-- 左列：统计数据 -->
-      <td align="center" width="50%">
-        <h3>Miles' GitHub Stats</h3>
-        <table border="0" cellspacing="0" cellpadding="0">
-          <tr>
-            <td align="left" width="30px">
-              <img src="https://img.icons8.com/color/48/000000/star--v1.png" width="24"/>
-            </td>
-            <td align="left">Total Stars Earned:</td>
-            <td align="center"><b>20</b></td>
-          </tr>
-          <tr>
-            <td align="left">
-              <img src="https://img.icons8.com/color/48/000000/commit.png" width="24"/>
-            </td>
-            <td align="left">Total Commits:</td>
-            <td align="center"><b>146</b></td>
-          </tr>
-          <tr>
-            <td align="left">
-              <img src="https://img.icons8.com/color/48/000000/pull-request.png" width="24"/>
-            </td>
-            <td align="left">Total PRs:</td>
-            <td align="center"><b>0</b></td>
-          </tr>
-          <tr>
-            <td align="left">
-              <img src="https://img.icons8.com/color/48/000000/issue-opened.png" width="24"/>
-            </td>
-            <td align="left">Total Issues:</td>
-            <td align="center"><b>0</b></td>
-          </tr>
-          <tr>
-            <td align="left">
-              <img src="https://img.icons8.com/color/48/000000/git-merge.png" width="24"/>
-            </td>
-            <td align="left">Contributed to (last year):</td>
-            <td align="center"><b>0</b></td>
-          </tr>
-        </table>
-      </td>
-      
-      <!-- 右列：评分卡 -->
-      <td align="center" width="50%">
-        <!-- 自定义SVG实现评分显示 -->
-        <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-          <!-- 背景圆圈 -->
-          <circle cx="100" cy="100" r="80" fill="none" stroke="#eaeaea" stroke-width="12"/>
-          
-          <!-- 成绩指示圆弧 - 调整stroke-dasharray和绿色深浅来反映不同级别 -->
-          <circle cx="100" cy="100" r="80" fill="none" stroke="#4CAF50" stroke-width="12"
-                  stroke-dasharray="200 500" stroke-dashoffset="0" transform="rotate(-90 100 100)"/>
-          
-          <!-- 中心文字 -->
-          <text x="100" y="115" font-family="Arial" font-size="48" font-weight="bold" fill="#4CAF50" text-anchor="middle">C+</text>
-        </svg>
-      </td>
-    </tr>
-  </table>
+  <!-- 统计卡片 - 使用可靠的外部API -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MilesSG&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MilesSG&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Streak Stats" />
   
-  <!-- 统计卡片 - 使用GitHub统计API -->
-  <div>
-    <a href="https://github.com/MilesSG">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilesSG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MilesSG&theme=tokyonight&hide_border=true&border_radius=10" />
-    </a>
-  </div>
+  <!-- Most Used Languages 卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesSG&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" width="45%" alt="Most Used Languages" />
   
-  <!-- 语言使用统计 -->
-  <div>
-    <a href="https://github.com/MilesSG">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilesSG&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" width="420" />
-    </a>
-  </div>
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilesSG&theme=tokyonight" width="68%" alt="Profile Details" />
 </div>
-<!-- GitHub统计部分 - 结束 -->
 
 <!-- 贡献图表（更现代化）-->
 <h2 align="center">
@@ -250,135 +136,62 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilesSG&theme=tokyonight" width="800" />
-</div>
-
-<!-- 3D贡献图（添加新元素）-->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilesSG&theme=tokyo-night&hide_border=true&area=true" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilesSG&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
 
 <!-- 视觉分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 最近活动部分 - 开始 -->
+<!-- 最近活动部分 - 修改为GitHub友好版本 -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="30">
   <b>📝 最近活动 | Recent Activity</b>
 </h2>
 
 <div align="center">
-  <!-- 活动时间轴 -->
-  <table border="0" cellspacing="0" cellpadding="0" align="center" width="90%">
-    <!-- 活动项1 -->
-    <tr>
-      <td width="40" align="center" valign="top">
-        <img src="https://img.icons8.com/color/48/000000/comments--v1.png" width="28"/>
-      </td>
-      <td width="100" align="center" valign="top">
-        <div style="background-color: #0366d6; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">2024-03-01</div>
-      </td>
-      <td valign="top" align="left">
-        <span>🗣 Commented on <a href="https://github.com/MilesSG/XSS_SSRF_Attack_Prevention/issues/1" target="_blank"><b>#1</b></a> in 
-        <a href="https://github.com/MilesSG/XSS_SSRF_Attack_Prevention" target="_blank">MilesSG/XSS_SSRF_Attack_Prevention</a></span>
-      </td>
-    </tr>
-    <!-- 分隔线 -->
-    <tr>
-      <td colspan="3" align="center">
-        <div style="border-top: 1px dashed #ccc; margin: 10px 0;"></div>
-      </td>
-    </tr>
-    
-    <!-- 活动项2 (模拟) -->
-    <tr>
-      <td width="40" align="center" valign="top">
-        <img src="https://img.icons8.com/color/48/000000/pull-request.png" width="28"/>
-      </td>
-      <td width="100" align="center" valign="top">
-        <div style="background-color: #2EA44F; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">2024-02-28</div>
-      </td>
-      <td valign="top" align="left">
-        <span>🔀 Created a new pull request <a href="https://github.com/MilesSG/anime-recommender-miniapp/pull/5" target="_blank"><b>#5</b></a> in 
-        <a href="https://github.com/MilesSG/anime-recommender-miniapp" target="_blank">MilesSG/anime-recommender-miniapp</a></span>
-      </td>
-    </tr>
-    <!-- 分隔线 -->
-    <tr>
-      <td colspan="3" align="center">
-        <div style="border-top: 1px dashed #ccc; margin: 10px 0;"></div>
-      </td>
-    </tr>
-    
-    <!-- 活动项3 (模拟) -->
-    <tr>
-      <td width="40" align="center" valign="top">
-        <img src="https://img.icons8.com/color/48/000000/star--v1.png" width="28"/>
-      </td>
-      <td width="100" align="center" valign="top">
-        <div style="background-color: #B353AB; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">2024-02-25</div>
-      </td>
-      <td valign="top" align="left">
-        <span>⭐ Starred repository <a href="https://github.com/tensorflow/tensorflow" target="_blank"><b>tensorflow/tensorflow</b></a></span>
-      </td>
-    </tr>
-    <!-- 分隔线 -->
-    <tr>
-      <td colspan="3" align="center">
-        <div style="border-top: 1px dashed #ccc; margin: 10px 0;"></div>
-      </td>
-    </tr>
-    
-    <!-- 活动项4 (模拟) -->
-    <tr>
-      <td width="40" align="center" valign="top">
-        <img src="https://img.icons8.com/color/48/000000/code-fork.png" width="28"/>
-      </td>
-      <td width="100" align="center" valign="top">
-        <div style="background-color: #F05033; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">2024-02-20</div>
-      </td>
-      <td valign="top" align="left">
-        <span>🔱 Forked repository <a href="https://github.com/MilesSG/recommendation-systems" target="_blank"><b>MilesSG/recommendation-systems</b></a> from 
-        <a href="https://github.com/microsoft/recommendation-systems" target="_blank">microsoft/recommendation-systems</a></span>
-      </td>
-    </tr>
-    <!-- 分隔线 -->
-    <tr>
-      <td colspan="3" align="center">
-        <div style="border-top: 1px dashed #ccc; margin: 10px 0;"></div>
-      </td>
-    </tr>
-    
-    <!-- 活动项5 (模拟) -->
-    <tr>
-      <td width="40" align="center" valign="top">
-        <img src="https://img.icons8.com/fluent/48/000000/code.png" width="28"/>
-      </td>
-      <td width="100" align="center" valign="top">
-        <div style="background-color: #4078C0; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">2024-02-15</div>
-      </td>
-      <td valign="top" align="left">
-        <span>📦 Created new repository <a href="https://github.com/MilesSG/traffic_flow_prediction" target="_blank"><b>MilesSG/traffic_flow_prediction</b></a></span>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- 查看更多链接 -->
-  <div align="center" style="margin-top: 20px;">
-    <a href="https://github.com/MilesSG" target="_blank">
-      <img src="https://img.shields.io/badge/View%20All%20Activity-Click%20Here-3498DB?style=for-the-badge&logo=github&logoColor=white" alt="View All Activity" />
-    </a>
+  <!-- 活动1 -->
+  <div>
+    <img align="left" width="24" src="https://img.icons8.com/color/48/000000/comments--v1.png" />
+    <span>2024-03-01: 🗣 评论了 <a href="https://github.com/MilesSG/XSS_SSRF_Attack_Prevention/issues/1">MilesSG/XSS_SSRF_Attack_Prevention#1</a></span>
   </div>
+  <br />
   
-  <!-- 自动更新活动部分（保留原代码中的自动更新部分） -->
-  <div style="margin-top: 20px;">
-    <h4>自动更新 | Auto-updated Activity</h4>
+  <!-- 活动2 -->
+  <div>
+    <img align="left" width="24" src="https://img.icons8.com/color/48/000000/pull-request.png" />
+    <span>2024-02-28: 🔀 创建了PR <a href="https://github.com/MilesSG/anime-recommender-miniapp/pull/5">MilesSG/anime-recommender-miniapp#5</a></span>
+  </div>
+  <br />
+  
+  <!-- 活动3 -->
+  <div>
+    <img align="left" width="24" src="https://img.icons8.com/color/48/000000/star--v1.png" />
+    <span>2024-02-25: ⭐ 收藏了仓库 <a href="https://github.com/tensorflow/tensorflow">tensorflow/tensorflow</a></span>
+  </div>
+  <br />
+  
+  <!-- 活动4 -->
+  <div>
+    <img align="left" width="24" src="https://img.icons8.com/color/48/000000/code-fork.png" />
+    <span>2024-02-20: 🔱 Fork了仓库 <a href="https://github.com/MilesSG/recommendation-systems">microsoft/recommendation-systems</a></span>
+  </div>
+  <br />
+  
+  <!-- 活动5 -->
+  <div>
+    <img align="left" width="24" src="https://img.icons8.com/fluent/48/000000/code.png" />
+    <span>2024-02-15: 📦 创建了仓库 <a href="https://github.com/MilesSG/traffic_flow_prediction">MilesSG/traffic_flow_prediction</a></span>
+  </div>
+  <br />
+  
+  <!-- 自动更新活动部分 -->
+  <div align="center" style="margin-top: 20px;">
+    <h4>自动更新活动 | Auto-updated Activity</h4>
     <!--START_SECTION:activity-->
     1. 🗣 Commented on [#1](https://github.com/MilesSG/XSS_SSRF_Attack_Prevention/issues/1#issuecomment-2709812934) in [MilesSG/XSS_SSRF_Attack_Prevention](https://github.com/MilesSG/XSS_SSRF_Attack_Prevention)
     <!--END_SECTION:activity-->
   </div>
 </div>
-<!-- 最近活动部分 - 结束 -->
 
 <!-- 访客计数器（重新设计）-->
 <div align="center">
@@ -389,7 +202,6 @@
   <p align="center">
     <img src="https://profile-counter.glitch.me/MilesSG/count.svg" width="250" />
   </p>
-  <img src="https://count.getloli.com/get/@:MilesSG?theme=rule34" style="display: none;" />
 </div>
 
 <!-- 特色Quote -->
