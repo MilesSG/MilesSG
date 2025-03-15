@@ -5,7 +5,7 @@
 
 <!-- 简化的打字效果 - 避免过多依赖外部服务 -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Recommendation+Systems;学习技术的路上，真的不能停;Machine+Learning+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
