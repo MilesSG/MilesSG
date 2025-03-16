@@ -3,19 +3,27 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # 每12小时运行一次
+    - cron: '0 */6 * * *'  # 每6小时运行一次
   workflow_dispatch:  # 允许手动触发
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # 确保有写入权限
+      contents: write  # 写入权限
+      issues: read     # 读取issues权限
+      pull-requests: read  # 读取PR权限
     steps:
-      - uses: actions/checkout@v3  # 更新到v3版本
+      - uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # 获取完整历史以确保活动可见
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
       
+      # 清除缓存，确保获取最新数据
+      - name: Clear potential caches
+        run: |
+          rm -rf ~/.cache/github-activity-readme || true
+          
       - name: Update README with latest activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
@@ -23,3 +31,5 @@ jobs:
         with:
           COMMIT_MSG: 'Update README with recent activity'
           MAX_LINES: 5  # 显示最近5条活动
+          FEED_SIZE: 10  # 获取10条活动以确保有新内容可选择
+          TARGET_FILE: 'README.md'  # 明确指定目标文件
