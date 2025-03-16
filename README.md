@@ -136,7 +136,6 @@
 
 <div align="center">
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MilesSG/XSS_SSRF_Attack_Prevention/issues/1#issuecomment-2709812934) in [MilesSG/XSS_SSRF_Attack_Prevention](https://github.com/MilesSG/XSS_SSRF_Attack_Prevention)
   <!--END_SECTION:activity-->
 </div>
 
