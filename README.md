@@ -1,157 +1,153 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;height=260&amp;color=0:22D3EE,50:6366F1,100:A855F7&amp;text=Miles&amp;fontSize=78&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;stroke=A5B4FC&amp;strokeWidth=1&amp;desc=PERSONAL%20LAB%20%2F%20CODE%20%2B%20AI%20%2B%20CURIOSITY&amp;descSize=14&amp;descAlignY=76" width="100%" alt="Miles — Personal Lab / Code + AI + Curiosity" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Recommendation+Systems;%E5%AD%A6%E4%B9%A0%E6%8A%80%E6%9C%AF%E7%9A%84%E8%B7%AF%E4%B8%8A%EF%BC%8C%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%83%BD%E5%81%9C;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2400&amp;pause=800&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=55&amp;lines=%3E+Booting+Miles...;%3E+Loading+code%2C+data+%26+curiosity...;%3E+Turning+ideas+into+applications.;%3E+Hello%2C+world.+Let%27s+build+something." width="720" alt="Booting Miles… Turning ideas into applications." />
-
-把好奇心写进代码，把想法变成可以使用的东西。
-
- 🌐 BLOG 　 ✉ SAY HELLO 　 ⌘ REPOSITORIES 
-
-</div>
-
-<br />
-
-> whoami
-
-class Miles:
-    interests = ["Full-stack", "AI", "Recommendation systems", "Data"]
-    languages = ["中文", "English"]
-    mindset = "Stay curious. Build something useful."
-
-    def next_step(self, idea):
-        return "Prototype → Learn → Improve"
-
-我喜欢探索 AI、推荐系统和全栈开发，也喜欢把新技术放进具体项目里试一试。这里记录我的作品、实验，以及把想法一步步做出来的过程。
-
-<br />
-
-🧪 / Experiments that became projects
-
-<!-- Project names and links are retained from the original profile. Update these as your work evolves. -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-◈ Anime Recommender
-
-动漫推荐小程序
-
-兴趣方向：推荐系统 × 应用开发。
-
-<sub>RECOMMENDATION · MINI APP</sub>
-
-<br /><br />
-<a href="https://github.com/MilesSG/anime-recommender-miniapp"><b>Explore project ↗</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-⌁ Web Security
-
-XSS / SSRF 攻击防护
-
-兴趣方向：Web 安全 × 攻击防护。
-
-<sub>WEB SECURITY · XSS · SSRF</sub>
-
-<br /><br />
-<a href="https://github.com/MilesSG/XSS_SSRF_Attack_Prevention"><b>Explore project ↗</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-◉ Cancer Detection
-
-癌症检测系统项目
-
-兴趣方向：检测任务 × 智能应用。
-
-<sub>DETECTION · APPLICATION</sub>
-
-<br /><br />
-<a href="https://github.com/MilesSG/CancerDetectionSystem"><b>Explore project ↗</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-↗ Traffic Prediction
-
-交通流量预测
-
-兴趣方向：交通数据 × 预测分析。
-
-<sub>TRAFFIC · DATA · PREDICTION</sub>
-
-<br /><br />
-<a href="https://github.com/MilesSG/traffic_flow_prediction"><b>Explore project ↗</b></a>
-
-</td>
-</tr>
-</table>
-
-<p align="right"><a href="https://github.com/MilesSG?tab=repositories">All repositories ↗</a></p>
-
-<br />
-
-⚙️ / The toolkit
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,vue,react,nodejs,docker,git&amp;theme=dark&amp;perline=8" alt="Python, JavaScript, TypeScript, Vue, React, Node.js, Docker, Git" />
+<!-- 标签徽章 - 简单可靠的方式 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0_Focus-AI_%26_Recommendation_Systems-3498DB?style=flat-square" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8F_Living-New_Zealand-2ECC71?style=flat-square" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%97%A3%EF%B8%8F_Languages-%E4%B8%AD%E6%96%87_%26_English-F39C12?style=flat-square" alt="Languages Badge" />
 </p>
 
-Area
+<!-- 作为备用，添加纯文本版本的标题 -->
+<h2 align="center">Full Stack Developer</h2>
 
-Tools
+<!-- 简单分隔线 -->
+<hr>
 
-Frontend
+<!-- 关于我部分 - 简化设计 -->
+<h2 align="center">📌 关于我 | About Me</h2>
 
-JavaScript · TypeScript · Vue · React
+<p align="center">
+  <img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+  
+  <samp>
+    👋 作为一名全栈开发者，我专注于构建智能推荐系统和数据分析解决方案。<br><br>
+    🔍 Full-stack developer passionate about building intelligent recommendation systems and data analytics solutions.<br><br>
+    🌱 我喜欢探索新技术并在实际项目中应用它们，解决现实世界中的问题。<br><br>
+    ⚡ 我正致力于利用AI提高用户体验和创建智能应用。
+  </samp>
+</p>
 
-Development & data
+<!-- 联系方式 - 简化版本 -->
+<h2 align="center">📫 与我联系 | Connect With Me</h2>
 
-Python · Node.js
+<p align="center">
+  <a href="https://blog.milessg.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-blog.milessg.com-34495E?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
+  </a>
+  <a href="mailto:i@milessg.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-i@milessg.com-16A085?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/MilesSG" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-MilesSG-95A5A6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-Workflow
+<hr>
 
-Git · Docker
+<!-- 技能部分 - 简化版 -->
+<h2 align="center">🛠️ 技术栈 | Tech Stack</h2>
 
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
-📡 / GitHub signal
+<hr>
 
-<details>
-<summary><b>展开我的代码活动 / Open activity panel</b></summary>
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilesSG&amp;theme=tokyonight" width="100%" alt="MilesSG GitHub activity overview" />
-
-查看实时贡献记录 ↗ · 浏览全部仓库 ↗
-
-</details>
-
-<br />
+<!-- 项目部分 - 简化版本 -->
+<h2 align="center">🔥 精选项目 | Featured Projects</h2>
 
 <div align="center">
-
-Curiosity is the engine. Code is the way.
-
-下一个有趣的想法，也许就从一次交流开始。
-
-Let's build something ↗
-
+  <a href="https://github.com/MilesSG/anime-recommender-miniapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilesSG&repo=anime-recommender-miniapp&theme=vue&hide_border=true" width="47%" />
+  </a>&nbsp;
+  <a href="https://github.com/MilesSG/XSS_SSRF_Attack_Prevention">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilesSG&repo=XSS_SSRF_Attack_Prevention&theme=vue&hide_border=true" width="47%" />
+  </a>
 </div>
+<br />
+<div align="center">
+  <a href="https://github.com/MilesSG/CancerDetectionSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilesSG&repo=CancerDetectionSystem&theme=vue&hide_border=true" width="47%" />
+  </a>&nbsp;
+  <a href="https://github.com/MilesSG/traffic_flow_prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MilesSG&repo=traffic_flow_prediction&theme=vue&hide_border=true" width="47%" />
+  </a>
+</div>
+
+<hr>
+
+<!-- GitHub统计部分 - 简化可靠版本 -->
+<h2 align="center">📊 GitHub统计 | Stats</h2>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=16&amp;duration=2600&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=while+(curious)+%7B+learn();+build();+%7D;Next+idea+is+loading...;See+you+in+the+next+commit." width="650" alt="Stay curious. Keep building. See you in the next commit." />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22D3EE,50:6366F1,100:A855F7&amp;height=120&amp;section=footer" width="100%" alt="" />
-
+  <p><b>Miles的GitHub统计信息</b></p>
+  <p>
+    ⭐ 获得星标数: <b>20</b> &nbsp;|&nbsp;
+    📊 提交次数: <b>146</b> &nbsp;|&nbsp;
+    🔄 PR数量: <b>0</b> &nbsp;|&nbsp;
+    🛠️ Issue数: <b>0</b> &nbsp;|&nbsp;
+    🤝 贡献项目: <b>0</b>
+  </p>
+  <p><b>评分等级: C+</b></p>
+  
+  <!-- 使用更可靠的GitHub统计卡片方式 -->
+  <a href="https://github.com/MilesSG">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MilesSG&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/MilesSG">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MilesSG&theme=vue&hide_border=true&layout=compact&langs_count=8" />
+  </a>
+  
+  <!-- 使用可靠的GitHub连续提交记录卡片 -->
+  <br /><br />
+  <a href="https://github.com/MilesSG">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MilesSG&theme=vue&hide_border=true" alt="Miles的GitHub连续提交记录" />
+  </a>
 </div>
 
-<!-- Single-file profile. Animated images and activity panel use external services; availability depends on those services. Project links and core text remain usable without images. -->
+<hr>
+
+<!-- 贡献图 - 使用简化版 -->
+<h2 align="center">📈 贡献图 | Contribution Graph</h2>
+
+<div align="center">
+  <!-- 简化版贡献图 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilesSG&theme=vue" width="80%" />
+</div>
+
+<hr>
+
+<!-- 最近活动部分 -->
+<h2 align="center">📝 最近活动 | Recent Activity</h2>
+
+<div align="center">
+  <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/MilesSG/XSS_SSRF_Attack_Prevention/issues/1#issuecomment-2709812934) in [MilesSG/XSS_SSRF_Attack_Prevention](https://github.com/MilesSG/XSS_SSRF_Attack_Prevention)
+  <!--END_SECTION:activity-->
+</div>
+
+<!-- 访客计数器 - 简化版 -->
+<h2 align="center">👋 访客数 | Visitors</h2>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MilesSG/count.svg" />
+</div>
+
+<!-- 动态页脚 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000&animation=fadeIn" width="100%" />
+</div>
