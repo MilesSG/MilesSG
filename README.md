@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;height=260&amp;color=0:22D3EE,50:6366F1,100:A855F7&amp;text=MILES.exe&amp;fontSize=78&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;stroke=A5B4FC&amp;strokeWidth=1&amp;desc=PERSONAL%20LAB%20%2F%20CODE%20%2B%20AI%20%2B%20CURIOSITY&amp;descSize=14&amp;descAlignY=76" width="100%" alt="MILES.exe — Personal Lab / Code + AI + Curiosity" />
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;height=260&amp;color=0:22D3EE,50:6366F1,100:A855F7&amp;text=Miles&amp;fontSize=78&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;stroke=A5B4FC&amp;strokeWidth=1&amp;desc=PERSONAL%20LAB%20%2F%20CODE%20%2B%20AI%20%2B%20CURIOSITY&amp;descSize=14&amp;descAlignY=76" width="100%" alt="Miles — Personal Lab / Code + AI + Curiosity" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2400&amp;pause=800&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=55&amp;lines=%3E+Booting+Miles.exe...;%3E+Loading+code%2C+data+%26+curiosity...;%3E+Turning+ideas+into+applications.;%3E+Hello%2C+world.+Let%27s+build+something." width="720" alt="Booting Miles.exe… Turning ideas into applications." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2400&amp;pause=800&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=55&amp;lines=%3E+Booting+Miles...;%3E+Loading+code%2C+data+%26+curiosity...;%3E+Turning+ideas+into+applications.;%3E+Hello%2C+world.+Let%27s+build+something." width="720" alt="Booting Miles… Turning ideas into applications." />
 
 把好奇心写进代码，把想法变成可以使用的东西。
 
